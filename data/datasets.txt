@@ -1,0 +1,10 @@
+
+Samlet forbrug TIME
+https://www.energidataservice.dk/tso-electricity/electricitybalancenonv
+
+
+Production MINUT
+https://www.energidataservice.dk/tso-electricity/powersystemrightnow
+
+Priser TIME:
+https://www.energidataservice.dk/tso-electricity/elspotprices
